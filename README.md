@@ -13,7 +13,7 @@ The system classifies banana images into four ripeness classes:
 
 ## Project Demo Video
 
-[Watch FYP Project Demo Video](https://canva.link/sjgpwx7bi7v2vue)
+[Watch FYP Project Demo Video at page 12 & 13](https://canva.link/sjgpwx7bi7v2vue)
 
 The demo video shows the real-time camera setup, GUI interface, and banana ripeness prediction results.
 

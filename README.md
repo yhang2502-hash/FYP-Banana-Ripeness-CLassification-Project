@@ -11,6 +11,12 @@ The system classifies banana images into four ripeness classes:
 
 ---
 
+## Project Demo Video
+
+[Watch FYP Project Demo Video](https://canva.link/sjgpwx7bi7v2vue)
+
+The demo video shows the real-time camera setup, GUI interface, and banana ripeness prediction results.
+
 ## Project Overview
 
 Banana ripeness classification is important in agriculture, food quality control, and smart farming applications. Manual ripeness checking can be subjective because it depends on human observation, lighting conditions, and experience.

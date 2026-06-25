@@ -1,0 +1,700 @@
+image_path,true_label_index,true_label_name,pred_label_index,pred_label_name,correct
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\10.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1011.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1021.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1022.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1023.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1024.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1025.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\1026.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\11.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\110 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\111.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\112 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\112.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\120 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\120.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\121 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\132.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\133 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\139 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\139.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\140.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\141 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\141.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\156.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\157 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\157.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\158 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\158.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\159.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\16.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\165.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\179 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\179.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\181 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\187.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\188.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\189 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\189.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\205.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\206 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\206.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\208.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\214.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\215.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\216.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\228.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\234.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\235.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\236.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\237 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\237.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\244.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\254.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\255.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\256.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\263.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\265.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\266.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\267.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\28 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\28.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\284.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\285.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\286.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\287 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\287.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\288 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\29 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\29.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\295 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\305.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\306 (2).png,0,Class A,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\306.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\312.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\313 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\314 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\314.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\331 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\331.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\333 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\333.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\334.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\342.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\343 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\356.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\358.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\359.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\36.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\366.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\367.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\368.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\369.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\37.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\38 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\389 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\389.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\391.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\392 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\392.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\397.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\398.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\411 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\412.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\416.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\417 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\417 - copia.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\417.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\418.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\437.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\438 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\438.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\439.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\440 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\448.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\449.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\463.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\465.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\473 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\473.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\474 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\474.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\475 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\492.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\493.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\494.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\495 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\496.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\501.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\502.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\51.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\514.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\515.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\52.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\521.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\522.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\523.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\524.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\525.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\542.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\543 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\543.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\544 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\544.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\550.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\551.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\565.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\566.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\574.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\575.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\576.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\577.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\578.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\59.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\6.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\605.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\606.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\607.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\608.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\609.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\61 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\61.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\619.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\62.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\620.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\63.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\638.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\639.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\648.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\649.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\650.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\651.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\653.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\678.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\679.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\680.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\681.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\682.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\692.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\693.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7023 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7023.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7024.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7025.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7033.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7034 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7034.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7049.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7058.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7059 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7059.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7061.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7062 (2).png,0,Class A,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7062.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7084.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7085 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7085.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7086 (2).png,0,Class A,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\709.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7095.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7096.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7098.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\710.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7117.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7123 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7123.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7125.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7126.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7128.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7137.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7154.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7156.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7157.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7160.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7170.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7172 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\7172.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\720.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\721.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\723.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\724.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\725.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\750.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\751.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\752.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\754.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\765.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\766.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\767.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\784.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\785.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\796.png,0,Class A,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\798.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\799.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\800.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8009.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\801.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8025.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8032.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8037.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8039.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\8040.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\827.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\829.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\830.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\831.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\84.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\840.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\841.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\842.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\85.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\859.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\86.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\868.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\869.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\87.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\870.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\871.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\872.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\873.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\89.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\9 (2).png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\9.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\90.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\900.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\901.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\902.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\903.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\912.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\913.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\914.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\933.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\942.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\943.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\944.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\945.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\947.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\949.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\96.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\976.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\979.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\980.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\982.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\992.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\993.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class A\994.png,0,Class A,0,Class A,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\10.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\108 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\108.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\109.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\11 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\11.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\111.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\112.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\123.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\126 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\147 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\147.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\153.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\156.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\158.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\159.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\162 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\200 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\200.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\201.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\202.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\204.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\218 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\218.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\23.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\243.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\244.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\256 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\256.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\258.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\261.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\262.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\281.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\283.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\285.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\286.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\289.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\302 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\302.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\324.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\325.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\337 (2).png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\337.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\338 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\338.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\340.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\363 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\363.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\366.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\367 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\367.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\377 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\378 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\395.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\396.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\408.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\409.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\410.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\412.png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\417.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\44.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\443.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\444.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\445 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\445.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\446 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\45.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\455.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\456.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\46 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\46.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\470.png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\471.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\483.png,1,Class B,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\484 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\486 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\486.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\487.png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\52.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\525.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\527.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\529.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\53 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\53.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\531.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\538.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\539.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\540.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\559.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\560.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\576.png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\577.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\578.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\579.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\582.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7006.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7009.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7010.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7012.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7022.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7024.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7025.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7050.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7060.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7064 (2).png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7064.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7066.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7067.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7068.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7102 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7103.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7104.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7105 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7115.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7116.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7117.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7138 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7148.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7149.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7153.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7154.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7155 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7155.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7180.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7182.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7183.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\7186.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\72 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\80.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8010 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8010.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8013.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8040.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8054.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8056.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8057 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8057.png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8061.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8062 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8092.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8093.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8094.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8095.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\81 (2).png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\81.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8106.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8107.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8108.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8137.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8149.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8152 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8152.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8155 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8155.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8157.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8193.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\8195.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\85 (2).png,1,Class B,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\86 (2).png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\86.png,1,Class B,0,Class A,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class B\9.png,1,Class B,1,Class B,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\1.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\109.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\110.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\111 (2).png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\115.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\116.png,2,Class C,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\178.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\181.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\183.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\209.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\212.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\213.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\214.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\24.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\260 (2).png,2,Class C,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\260.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\266.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\269.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\27.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\29.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\295.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\298.png,2,Class C,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\299.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\31.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\35 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\357.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\362.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\364.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\365.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\370.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\386 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\390.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\435.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\460.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\462.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\463.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\464.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\471.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\488.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\511.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\515.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\534.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\536.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\54.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\542.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\544 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\544.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\617.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\618.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\620.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\77.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\79.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8001 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8001.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8002 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8002.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8024 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8024.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8025.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8027 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8027.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8031 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8033.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8044.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8045 (2).png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8045.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8046.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8048 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8049.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8050.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8059.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8060 (2).png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8060.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8062.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8063.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8064 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8064.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8084.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8087 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8087.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8089.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8090.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8102.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8104.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8122.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8135.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8141.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8142.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8146.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8149.png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8159.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8189 (2).png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8189.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8197.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8200.png,2,Class C,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8204.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8205 (2).png,2,Class C,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\8205.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9063.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9065 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9065.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9066.png,2,Class C,3,Class D,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9069.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9094 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9094.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9126.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9131 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9131.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9154.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9156 (2).png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9156.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class C\9160.png,2,Class C,2,Class C,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\102.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\104.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\105.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\107 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\14.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\15.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\16 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\16.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\162.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\164.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\165.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\166.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\17 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\184.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\185.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\186.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\215.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\216 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\231.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\233.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\235.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\236.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\237.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\270.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\271.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\273.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\275.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\277.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\278.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\293.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\319.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\320.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\321.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\322 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\33.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\334.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\338.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\339.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\356.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\369.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\370.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\372.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\374.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\375.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\376.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\413.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\414.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\415.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\416.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\417.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\428.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\431.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\456.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\458.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\460.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\478.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\481.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\482.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\483.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\509.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\518.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\519.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\520.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\522.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\523.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\525.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\560.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\566.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\568.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\569.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\570.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\584.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\585.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8029.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8033.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8034 (2).png,3,Class D,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8061.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8063.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8065 (2).png,3,Class D,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8065.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8151.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8191.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8199.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8200.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\8201.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\83.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\87.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9000 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9000.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9019.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9020.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9021 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9021.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9022.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9028.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9029.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9043.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9044.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9045.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9051.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9052.png,3,Class D,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9053.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9054.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9068 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9076.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9077 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9077.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9078.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9079 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9079.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9102.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9103.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9104.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9105.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9106 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9113.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9114.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9124.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9127 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9127.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9134.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9135 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9135.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9136.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9147.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9155 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9155.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9157 (2).png,3,Class D,1,Class B,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9157.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9158 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9158.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9177.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9178 (2).png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9178.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9179.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9180.png,3,Class D,2,Class C,0
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9187.png,3,Class D,3,Class D,1
+D:\Y4 FYP file\Dataset\FYP_Data_Final\Method2_Masked_CLAHE_Fair\test\Class D\9188.png,3,Class D,3,Class D,1

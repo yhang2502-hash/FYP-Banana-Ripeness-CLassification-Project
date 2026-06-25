@@ -1,0 +1,4 @@
+Method,Offline_Accuracy
+Method 1 Raw,91.41630901287554
+Method 2 Masked + CLAHE,91.98855507868383
+Method 3 Isolated + CLAHE,90.84406294706724
